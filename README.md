@@ -1,4 +1,4 @@
-# Naive-Bayes-classification-algorithm-project
+# Classification Algos/Knn_Nb_Project
 Biomechanical Features of Orthopedic Patients¶ In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal
 
 3 Section I : Accessing the Data
